@@ -4,4 +4,9 @@
  		<description>Change data provider output parameteres.</description>
  		<owner>Pedro Queiroz</owner>
  	</toggle>
-</toggles> 
+ 	<toggle name="LPS-68869">
+ 		<date>2017-04-07</date>
+ 		<description>Update DDL Link to Page UI.</description>
+ 		<owner>Clarissa Tampoya</owner>
+ 	</toggle>
+</toggles>
